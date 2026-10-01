@@ -1,0 +1,11 @@
+[project]
+name = "alimony-dapp"
+description = "Clarity contracts for the Alimony Dapp"
+authors = []
+telemetry = false
+cache_dir = "./.clarinet"
+
+[contracts.alimony-agreement]
+path = "contracts/alimony-agreement.clar"
+clarity_version = 6
+epoch = "4.0"

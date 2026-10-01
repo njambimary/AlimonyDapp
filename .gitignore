@@ -12,6 +12,18 @@
 
 # testing
 /coverage
+/deployments/*.simnet-plan.yaml
+/contracts/deployments/*.simnet-plan.yaml
+/contracts/deployments/*.testnet-plan.yaml
+/contracts/deployments/*.mainnet-plan.yaml
+/contracts/node_modules/
+/contracts/.cache/
+
+# Stacks deployment credentials
+/settings/Testnet.toml
+/settings/Mainnet.toml
+/contracts/settings/Testnet.toml
+/contracts/settings/Mainnet.toml
 
 # next.js
 /.next/

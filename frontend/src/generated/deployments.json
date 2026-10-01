@@ -1,0 +1,9 @@
+{
+  "network": "testnet",
+  "deployed_at": "imported-existing-deployment",
+  "contracts": {
+    "alimony-agreement": {
+      "contract_id": "ST2T6C1JTXS6AVQ4PTSQNS0MF666191WNC77NC2F.alimony-agreement"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "alimony-contracts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "vitest run --config vitest.config.mts"
+  },
+  "devDependencies": {
+    "@stacks/clarinet-sdk": "3.24.1",
+    "@stacks/transactions": "^7.6.0",
+    "@types/node": "^20",
+    "vitest": "^4.1.8",
+    "vitest-environment-clarinet": "^3.0.0"
+  }
+}
